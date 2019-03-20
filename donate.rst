@@ -9,7 +9,7 @@ Donations are managed by the `NumFOCUS <http://www.numfocus.org/open-source-proj
 .. raw:: html
 
     <div style="text-align: center;">
-    <iframe style="height: 325px;width: 300px;border: medium none; display:inline-block;" src="https://www.flipcause.com/embed/html_widget/MzA3OA=="></iframe>
+    <iframe style="height: 325px;width: 300px;border: medium none; display:inline-block;" src="https://numfocus.salsalabs.org/donate-to-pandas/index.html"></iframe>
     </div>
 
 
